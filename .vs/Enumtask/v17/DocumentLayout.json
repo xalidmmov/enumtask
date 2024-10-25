@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\Enumtask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E65C1F01-8A7E-4334-ADFB-4FE098DD383F}|Enumtask\\Enumtask.csproj|c:\\users\\asus\\source\\repos\\enumtask\\enumtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E65C1F01-8A7E-4334-ADFB-4FE098DD383F}|Enumtask\\Enumtask.csproj|solutionrelative:enumtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26DF0B7-C0FC-4A68-A8B0-D227DF0956E7}|Core\\Core.csproj|c:\\users\\asus\\source\\repos\\enumtask\\core\\helper\\exception\\pricemustbegratherthanzeroexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26DF0B7-C0FC-4A68-A8B0-D227DF0956E7}|Core\\Core.csproj|solutionrelative:core\\helper\\exception\\pricemustbegratherthanzeroexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26DF0B7-C0FC-4A68-A8B0-D227DF0956E7}|Core\\Core.csproj|c:\\users\\asus\\source\\repos\\enumtask\\core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26DF0B7-C0FC-4A68-A8B0-D227DF0956E7}|Core\\Core.csproj|solutionrelative:core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D26DF0B7-C0FC-4A68-A8B0-D227DF0956E7}|Core\\Core.csproj|c:\\users\\asus\\source\\repos\\enumtask\\core\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D26DF0B7-C0FC-4A68-A8B0-D227DF0956E7}|Core\\Core.csproj|solutionrelative:core\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\source\\repos\\Enumtask\\Core\\Helper\\Enum\\ProductType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Core\\Helper\\Enum\\ProductType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductType.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Enumtask\\Core\\Helper\\Enum\\ProductType.cs",
+              "RelativeDocumentMoniker": "Core\\Helper\\Enum\\ProductType.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Enumtask\\Core\\Helper\\Enum\\ProductType.cs",
+              "RelativeToolTip": "Core\\Helper\\Enum\\ProductType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T18:26:40.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PriceMustBeGratherThanZeroException.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Enumtask\\Core\\Helper\\exception\\PriceMustBeGratherThanZeroException.cs",
+              "RelativeDocumentMoniker": "Core\\Helper\\exception\\PriceMustBeGratherThanZeroException.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Enumtask\\Core\\Helper\\exception\\PriceMustBeGratherThanZeroException.cs",
+              "RelativeToolTip": "Core\\Helper\\exception\\PriceMustBeGratherThanZeroException.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T18:24:17.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Enumtask\\Core\\Models\\Store.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Store.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Enumtask\\Core\\Models\\Store.cs",
+              "RelativeToolTip": "Core\\Models\\Store.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAAACQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T18:22:29.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Enumtask\\Core\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Enumtask\\Core\\Models\\Product.cs",
+              "RelativeToolTip": "Core\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T18:22:14.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\Enumtask\\Enumtask\\Program.cs",
+              "RelativeDocumentMoniker": "Enumtask\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\Enumtask\\Enumtask\\Program.cs",
+              "RelativeToolTip": "Enumtask\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T18:15:04.756Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
